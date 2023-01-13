@@ -1,0 +1,1 @@
+https://r.mariadb.com/downloads/mariadb_repo_setup
